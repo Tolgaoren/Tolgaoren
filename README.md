@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Tolga Ören</h1>
+<h1 align="center">Hi 👋, I'm Tolga Ören</h1>
 I'm interested in Android development.
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=5275987903209539639](https://play.google.com/store/apps/dev?id=5275987903209539639)
