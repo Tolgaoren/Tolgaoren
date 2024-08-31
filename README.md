@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolga Ören</h1>
 I'm interested in Android development.
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=5275987903209539639](https://play.google.com/store/apps/dev?id=5275987903209539639)
+- 👨‍💻 My Apps on Google Play: [https://play.google.com/store/apps/dev?id=5275987903209539639](https://play.google.com/store/apps/dev?id=5275987903209539639)
 
 - 📫 How to reach me **tolgaaoren@gmail.com**
 
